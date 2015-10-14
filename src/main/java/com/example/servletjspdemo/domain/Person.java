@@ -2,7 +2,7 @@ package com.example.servletjspdemo.domain;
 
 public class Person {
 	
-	private String firstName = "unknown";
+	private String firstName = "wpisz imie";
 	private int yob = 1900;
 	
 	public Person() {
